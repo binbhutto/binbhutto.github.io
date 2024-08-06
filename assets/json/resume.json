@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Adil Bin Bhutto",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "adil-bb@ieee.org",
+    "phone": "+91 96133-54620",
+    "url": "https://abbhutto.com",
+    "summary": "An Indian born researcher with formal education in computer science.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8916-5 Takayama, Ikoma",
+      "postalCode": "Nara 630-0192",
+      "city": "Ikoma",
+      "countryCode": "Japan",
+      "region": "Osaka"
     },
     "profiles": [
       {
