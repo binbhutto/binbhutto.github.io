@@ -51,36 +51,3 @@ His research interests include `network function virtualization`, `anomaly detec
         Anomaly Detection
     </div>
 </div>
-
-<!-- Selected papers -->
-
-{% if page.selected_papers %}
-  <h2>
-    <a href="publications" style="color: inherit">Selected publications</a>
-  </h2>
-  {% include selected_papers.liquid %}
-{% endif %}
-
-<h2 class="mt-3">Institutes: Alumni | Worked</h2>
-<div class="row text-center mb-4 mt-3 d-flex justify-content-around">
-    <div class="col-4 col-md-2 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/institutes_icons/naist.png" title="example image" class="img-fluid rounded-circle" %}
-        NAIST, Japan
-    </div>
-    <div class="col-4 col-md-2 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/institutes_icons/umu.png" title="example image" class="img-fluid rounded-circle" %}
-        Umeå University, Sweden
-    </div>
-    <div class="col-4 col-md-2 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/institutes_icons/iitd.png" title="example image" class="img-fluid rounded-circle" %}
-        IIT Delhi, India
-    </div>
-    <div class="col-4 col-md-2 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/institutes_icons/iiita.png" title="example image" class="img-fluid rounded-circle" %}
-        IIIT Allahabad, India
-    </div>
-    <div class="col-4 col-md-2 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/institutes_icons/tu.png" title="example image" class="img-fluid rounded-circle" %}
-        Tezpur University, India
-    </div>
-</div>
