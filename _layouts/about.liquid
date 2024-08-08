@@ -59,16 +59,10 @@ layout: default
           {% include latest_posts.liquid %}
         {% endif %}
 
-        <!-- Selected papers -->
-        {% if page.selected_papers %}
-          <h2>
-            <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
-          </h2>
-          {% include selected_papers.liquid %}
-        {% endif %}
+
     {% endif %}
     {% if page.profile.more_info %}
-      <h2>Mailing address</h2>
+      <h2>Postal address</h2>
       <div class="more-info">{{ page.profile.more_info }}</div>
     {% endif %}
 
