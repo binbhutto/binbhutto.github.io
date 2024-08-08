@@ -55,9 +55,8 @@ His research interests include `network function virtualization`, `anomaly detec
 <!-- Selected papers -->
 
 {% if page.selected_papers %}
-
   <h2>
-    <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+    <a href="publications" style="color: inherit">Selected publications</a>
   </h2>
   {% include selected_papers.liquid %}
 {% endif %}
