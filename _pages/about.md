@@ -6,7 +6,7 @@ subtitle: <a href='https://iplab.naist.jp/'>Research Student</a> at Laboratory f
 
 profile:
   align: right
-  image: prof_pic.webp
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Lab for Cyber Resilience</p> <br>
