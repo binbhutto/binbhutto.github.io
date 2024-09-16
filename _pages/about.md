@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://iplab.naist.jp/'>Research Student</a> at Laboratory for Cyber Resilience, <br> Nara Institute of Science and Technology <a href="https://www.naist.jp/en">NAIST</a>, Japan.
+subtitle: <a href='https://iplab.naist.jp/'>Researcher</a> at Laboratory for Cyber Resilience, <br> Nara Institute of Science and Technology <a href="https://www.naist.jp/en">NAIST</a>, Japan.
 
 profile:
   align: right
