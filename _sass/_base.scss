@@ -392,6 +392,9 @@ ul.task-list input[type="checkbox"] {
     font-size: 2rem;
 
     a {
+      /* Add margin to increase spacing between icons */
+      margin: 0 3px;
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
