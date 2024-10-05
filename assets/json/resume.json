@@ -47,7 +47,6 @@
     {
       "name": "Distributed System"
     }
-
   ],
   "experience": [
     {
@@ -95,22 +94,50 @@
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["C", "C++", "Python", "Javascript", "NodeJS", "Bash", "SQL", "LateX", "Assembly (x86, MIPS)"]
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Javascript",
+        "NodeJS",
+        "Bash",
+        "SQL",
+        "LateX",
+        "Assembly (x86, MIPS)"
+      ]
     },
     {
       "name": "Common Tools and Packages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["DPDK", "Docker", "Flask", "HTML/CSS", "React", "Vim", "Tmux"]
+      "keywords": [
+        "DPDK",
+        "Docker",
+        "Flask",
+        "HTML/CSS",
+        "React",
+        "Vim",
+        "Tmux"
+      ]
     },
     {
       "name": "Research Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Tensorflow", "Keras API", "Scikit-Learn", "Numpy", "Pandas", "Matplotlib"]
+      "keywords": [
+        "Tensorflow",
+        "Keras API",
+        "Scikit-Learn",
+        "Numpy",
+        "Pandas",
+        "Matplotlib"
+      ]
     },
     {
       "name": "Familiarity with hyperscalers",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Google Cloud Platform (GCP)", "Amazon Web Services (AWS)"]
+      "keywords": [
+        "Google Cloud Platform (GCP)",
+        "Amazon Web Services (AWS)"
+      ]
     }
   ],
   "languages": [
