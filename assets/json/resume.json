@@ -17,33 +17,35 @@
   },
   "education": [
     {
-      "institution": "Nara Institute of Science and Technology",
+      "institution": "Nara Institute of Science and Technology, Japan",
       "location": "Osaka, Japan",
       "url": "https://www.naist.jp/en/",
-      "area": "Laboratory for Cyber Resilience",
-      "studyType": "Master of Information Science and Technology",
-      "startDate": "2022-09-01",
-      "endDate": "Present",
+      "area": "Thesis title: Performance Challenges in Containerized Networking: Latency, Jitter, and Bandwidth Beyond 5G.  <br> Laboratory for Cyber Resilience",
+      "studyType": "MSC. in Information Science (By Research)",
+      "startDate": "2022",
+      "endDate": "2024",
       "score": "4/4"
     },
     {
-      "institution": "Tezpur Central University",
+      "institution": "Tezpur Central University, India",
       "location": "Assam, India",
       "url": "https://www.tezu.ernet.in/",
-      "studyType": "Bachelor of Technology, Computer Science and Engineering",
-      "startDate": "2017-07-01",
-      "endDate": "2021-08-01",
+      "area": "General 4-year degree in Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2017",
+      "endDate": "2021",
       "score": "8.5/10"
     }
   ],
   "interests": [
     {
-      "name": "",
-      "keywords": ["System Software", "Networking", "Distributed System"]
+      "name": "System Software"
     },
     {
-      "name": "",
-      "keywords": ["Machine Learning", "Anomaly Detection"]
+      "name": "Networking"
+    },
+    {
+      "name": "Distributed System"
     }
   ],
   "experience": [
@@ -51,40 +53,40 @@
       "name": "ICSCoE, IPA, Ministry of Economy, Trade and Industry, Japan",
       "position": "Research Assistance",
       "url": "https://www.ipa.go.jp/en/",
-      "startDate": "2023-09-01",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Working to improve core network technology for better performance by using generic hardware processor architecture for software-defined networking. Also, exploring AI and machine learning to enhance networking solutions and strengthen cybersecurity defense at ICSCoE."
+      "summary": "I am conducting research on enhancing core network technology to optimize performance using generic hardware processor architecture for network function virtualization."
     },
     {
       "name": "Ovvy AI: Real Estate Photography, United States",
       "position": "Staff Engineer",
       "url": "https://ovvy.ai",
-      "startDate": "2022-08-01",
-      "endDate": "2024-08-01",
-      "summary": "Led the ML team for real estate image editing. We have developed fundamental AI models and applying theoretical knowledge and state-of-the-art advancements in computer vision to make image editing automated. My responsibility was to conduct research and train custom AI models for superior performance and oversee the deployment of these models to serve millions of requests."
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Lead the MLOps team for real estate image editing. We developed fundamental AI models and applied theoretical knowledge and state-of-the-art computer vision advancements to automate image editing. My responsibilities were to conduct research training on custom AI models for superior performance and oversee the deployment of these models to serve millions of requests."
     },
     {
       "name": "Autonomous Distributed Systems Lab, Umeå University, Sweden",
       "position": "Visiting Researcher",
       "url": "https://cloudresearch.org",
-      "startDate": "2021-01-01",
-      "endDate": "2022-09-01",
-      "summary": "Worked on developing fundamental methods for anomaly detection using machine learning and data science. Collaborated internationally on multiple research papers. It was funded by WASP project under Knut and Alice Wallenberg Foundation."
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "I worked on developing fundamental methods for network anomaly detection using machine learning and data science. Worked on multiple research papers with international collaborations. It was supported by WASP project under Knut and Alice Wallenberg Foundation."
     },
     {
       "name": "HydroSence Research Lab, Dept. of Civil Engineering, IIT Delhi, India",
       "position": "Research Intern",
       "url": "https://www.cogcomp.in/",
-      "startDate": "2020-04-01",
-      "endDate": "2020-07-01",
+      "startDate": "2020",
+      "endDate": "2020",
       "summary": "Used Sentinel-1 SAR satellite data to measure Indian river width on Google Earth Engine Plat-form and designed a web dashboard using LeafletJS, AWS, and Django to visualize crowd-sourced landscape data."
     },
     {
       "name": "Center for Cognitive Computing Lab, IIIT Allahabad, India",
       "position": "Research Intern",
       "url": "https://www.cogcomp.in/",
-      "startDate": "2019-12-01",
-      "endDate": "2020-01-01",
+      "startDate": "2019",
+      "endDate": "2020",
       "summary": "Worked on UI design and did a web-based implementation, which involved the deployment of machine learning models using Flask API, handling physical servers, VPN tunneling over proxy, and back-end and front-end coding."
     }
   ],
@@ -97,7 +99,7 @@
     {
       "name": "Common Tools and Packages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["DPDK", "Flask", "HTML/CSS", "React", "Vim", "Tmux"]
+      "keywords": ["DPDK", "Docker", "Flask", "HTML/CSS", "React", "Vim", "Tmux"]
     },
     {
       "name": "Research Tools",
@@ -105,7 +107,7 @@
       "keywords": ["Tensorflow", "Keras API", "Scikit-Learn", "Numpy", "Pandas", "Matplotlib"]
     },
     {
-      "name": "Hyperscalers",
+      "name": "Familiarity with hyperscalers",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Google Cloud Platform (GCP)", "Amazon Web Services (AWS)"]
     }
