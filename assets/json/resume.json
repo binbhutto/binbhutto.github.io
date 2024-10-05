@@ -38,13 +38,15 @@
   ],
   "interests": [
     {
-      "name": "",
-      "keywords": ["System Software", "Networking", "Distributed System"]
+      "name": "System Software"
     },
     {
-      "name": "",
-      "keywords": ["Machine Learning", "Anomaly Detection"]
+      "name": "Networking"
+    },
+    {
+      "name": "Distributed System"
     }
+
   ],
   "experience": [
     {
