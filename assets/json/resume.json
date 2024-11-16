@@ -50,16 +50,24 @@
   ],
   "experience": [
     {
+      "name": "iPlab, Nara Institute of Science and Technology, Japan",
+      "position": "Researcher",
+      "url": "https://iplab.naist.jp/",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "I am conducting research on low latency/jitter user space packet processing within containerized network functions, aiming to advance the next generation of compute interconnect technology."
+    },
+    {
       "name": "ICSCoE, IPA, Ministry of Economy, Trade and Industry, Japan",
       "position": "Research Assistance",
       "url": "https://www.ipa.go.jp/en/",
       "startDate": "2023",
-      "endDate": "Present",
-      "summary": "I am conducting research on enhancing core network technology to optimize performance using generic hardware processor architecture for network function virtualization."
+      "endDate": "2024",
+      "summary": "I conducted research on enhancing core network technology to optimize performance using generic hardware processor architecture for network function virtualization."
     },
     {
       "name": "Ovvy AI: Real Estate Photography, United States",
-      "position": "Staff Engineer",
+      "position": "Remote Staff Engineer",
       "url": "https://ovvy.ai",
       "startDate": "2022",
       "endDate": "2024",
