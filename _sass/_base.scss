@@ -250,10 +250,11 @@ ul.task-list input[type="checkbox"] {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  // box-shadow: 2px 2px 15px 3px rgba(0, 0, 0, 0.5);
+  // box-shadow: None;
+  // border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  // opacity: 0.95;
 }
 
 .navbar .dropdown-menu {
