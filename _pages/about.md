@@ -45,4 +45,3 @@ My experience includes roles as Staff Engineer at [Ovvy](https://ovvy.ai) (USA),
         Edge-AI
     </div>
 </div>
-
