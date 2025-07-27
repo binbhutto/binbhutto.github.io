@@ -6,7 +6,7 @@ subtitle: <a href='https://www.umu.se/en/staff/adil-bhutto/'>Doctoral Student</a
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>MIT.D.238, MIT-huset</p> <br>
